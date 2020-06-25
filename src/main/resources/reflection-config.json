@@ -1,0 +1,20 @@
+[
+  {
+    "name" : "org.apache.tinkerpop.gremlin.driver.Channelizer$WebSocketChannelizer",
+    "allDeclaredConstructors" : true
+  },
+  {
+  	"name" : "org.apache.tinkerpop.gremlin.process.traversal.dsl.graph.GraphTraversalSource",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+  	"name" : "org.apache.tinkerpop.gremlin.structure.util.empty.EmptyGraph",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  }
+]
